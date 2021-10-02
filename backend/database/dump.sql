@@ -23,3 +23,5 @@ INSERT INTO products (product_name, product_price, product_image, shop_name) VAL
 INSERT INTO products (product_name, product_price, product_image, shop_name) VALUES('Gelang Perak - Aksesoris Remaja', 7500, 'product11.jpg', 'Toko Aksesoris Unik');
 
 INSERT INTO products (product_name, product_price, product_image, shop_name) VALUES('Replika Cincin Emas - Aksesoris Remaja', 7500, 'product12.jpg', 'Toko Aksesoris Unik');
+
+INSERT INTO products (product_name, product_price, product_image, shop_name) VALUES('Replika Cincin Perak - Aksesoris Remaja', 7500, 'product12.jpg', 'Toko Aksesoris Unik');
